@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.homepage = 'http://github.com/kreetitech/cache_fu'
   s.require_paths = ["lib"]
 
-  s.add_runtime_dependency 'rails', '~> 4.2'
+  s.add_runtime_dependency 'rails', '~> 5.2'
 
-  s.add_development_dependency 'rails', '~> 4.2'
+  s.add_development_dependency 'rails', '~> 5.2'
 end
